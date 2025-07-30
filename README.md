@@ -12,7 +12,7 @@ Designed for scheduled rate refresh from external providers
 
 ## 1) Clone & install
 
-git clone https://github.com/TODO/your-repo.git currency-api
+git clone https://github.com/jonuoha60/currency-api.git
 
 cd currencyapi
 

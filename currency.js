@@ -1,0 +1,22 @@
+export const currencies = {
+  USD: "United States Dollar",
+  EUR: "Euro",
+  GBP: "British Pound Sterling",
+  CAD: "Canadian Dollar",
+  JPY: "Japanese Yen",
+  AUD: "Australian Dollar",
+  CHF: "Swiss Franc",
+  CNY: "Chinese Yuan",
+  INR: "Indian Rupee",
+  NGN: "Nigerian Naira",
+  ZAR: "South African Rand",
+  MXN: "Mexican Peso",
+  BRL: "Brazilian Real",
+  KRW: "South Korean Won",
+  RUB: "Russian Ruble",
+  SEK: "Swedish Krona",
+  NOK: "Norwegian Krone",
+  DKK: "Danish Krone",
+  SGD: "Singapore Dollar",
+  HKD: "Hong Kong Dollar"
+};

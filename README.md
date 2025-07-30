@@ -27,6 +27,6 @@ DB_NAME=database-name
 ### 3) Initialize database
 Run migrations or the schema script:
 
-## 4) Run the API
+### 4) Run the API
 
 The API will start on your systems localhost

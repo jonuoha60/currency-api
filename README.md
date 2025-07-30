@@ -28,5 +28,5 @@ DB_NAME=database-name
 Run migrations or the schema script:
 
 ### 4) Run the API
-command node server.js
+*command* node server.js
 The API will start on PORT 4000

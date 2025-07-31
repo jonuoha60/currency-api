@@ -10,13 +10,13 @@ Optional API key auth, caching, and rate limiting
 
 Designed for scheduled rate refresh from external providers
 
-### 1) Clone & install
+### 1. Clone & install
 
 git clone https://github.com/jonuoha60/currency-api.git
 
 cd currencyapi
 
-### 2) Configure environment
+### 2. Configure environment
 PORT=4000
 CORS_ORIGIN=http://localhost:5500
 DB_HOST=127.0.0.1
@@ -24,10 +24,10 @@ DB_USER=root
 DB_PASS=""
 DB_NAME=database-name
 
-### 3) Initialize database
+### 3. Initialize database
 Run migrations or the schema script:
 
-### 4) Run the API
+### 4. Run the API
 node server.js
 
 The API will start on PORT 4000

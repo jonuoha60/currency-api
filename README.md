@@ -11,9 +11,6 @@ Optional API key auth, caching, and rate limiting
 Designed for scheduled rate refresh from external providers
 
 ### 1. Clone & install
-
-git clone https://github.com/jonuoha60/currency-api.git
-
 cd currencyapi
 
 ### 2. Configure environment

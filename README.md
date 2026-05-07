@@ -14,6 +14,7 @@ Designed for scheduled rate refresh from external providers
 cd currencyapi
 
 ### 2. Configure environment
+Create a .env file in the root directory
 PORT=4000
 CORS_ORIGIN=http://localhost:5500
 DB_HOST=127.0.0.1
